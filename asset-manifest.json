@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abklee-site/static/css/main.71db82c7.css",
+    "main.js": "/abklee-site/static/js/main.1e19ee16.js",
+    "index.html": "/abklee-site/index.html",
+    "main.71db82c7.css.map": "/abklee-site/static/css/main.71db82c7.css.map",
+    "main.1e19ee16.js.map": "/abklee-site/static/js/main.1e19ee16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71db82c7.css",
+    "static/js/main.1e19ee16.js"
+  ]
+}
